@@ -1,0 +1,56 @@
+Aadi JAIN
+Software Developer
+Meerut, Uttar Pradesh, India – 250342
+Contact: +91 9068456915
+Email: jainaadi91151@gmail.com
+LinkedIn: linkedin.com/in/aadi-jain-4522a6353
+GitHub: github.com/aadijain-glb
+Passionate React developer skilled in building user-centric applications using modern frameworks like React and 
+Tailwind CSS. Proficient in Data Structures and Algorithms with a growing interest in Machine Learning. 
+Education 
+G.L. Bajaj Institute of Technology and Management, Greater Noide
+B.Tech in Computer Science and Engineering  |2021-Present 
+Currently in 8th Semester, Graduating in 2025 
+SETH ANANDRAM JAIPURIA SCHOOL at Vasundhara, Ghaziabad 
+CLASS 12TH in PCM  |2021 
+Scored 90% in CBSE BOARD 
+SETH ANANDRAM JAIPURIA SCHOOL at Vasundhara, Ghaziabad 
+CLASS 10TH  | 2019 
+Scored 90.2% in CBSE BOARD, Scored 100 marks in Mathematics 
+Projects 
+DOORWAY - Full Stack Job Portal 
+A personal project to connect job seekers and employers through a robust, feature-rich job portal, built with modern web 
+technologies for seamless functionality and user-centric design. 
+● Developed a dynamic frontend using React JS, Tailwind CSS, and Shadcn UI for a responsive, user-friendly 
+interface. 
+● Powered by Supabase for real-time database management and serverless APIs. 
+● Integrated Clerk for secure authentication with social login and role-based access control. 
+● Key features: Job posting, resume uploads, application tracking, and real-time notifications. 
+● Designed for scalability and performance with lazy loading and mobile-first responsiveness. 
+Technologies Used: React JS, Tailwind CSS, Supabase, Clerk, Shadcn UI 
+YOUTUBE CLONE - Video Streaming Platform 
+A personal project to create a YouTube-like platform for video streaming, featuring core functionalities like video playback, 
+search, and a user-friendly design. 
+● Built a dynamic and interactive frontend using React JS. 
+● Utilized Parcel for fast build times, code splitting, and efficient bundling. 
+● Styled the platform with Tailwind CSS for a modern, responsive, and mobile-first design. 
+● Simulated API responses to demonstrate functionality and implemented lazy loading for performance optimization. 
+Technologies: React JS, Parcel, Tailwind CSS 
+Key Skills 
+Technical Skills: Python, Java, C++, MySQL, HTML, CSS, JavaScript, OOPs, React.Js, Node.Js, Tailwind CSS, 
+Shadcn UI, Clerk, Supabase, Figma, Machine Learning(Basics), Git Version Control 
+Soft Skills: Problem Solving Skills, Quick learner, Conflict Resolution, Team Work, Leadership Skills 
+Certifications 
+Supervised Machine Learning: Regression and Classification (DeepLearning.AI & Stanford University) 
+Namaste JavaScript (NamasteDev.com) 
+AI Fundamentals (DigiSaksham(Microsoft)) 
+Python 3.4.3 Training(Spoken Tutorial, IIT Bombay)                                                                                          
+Achievements                                                          
+● Published a review paper on Integrated Pothole Detection and Damage Assessment Model for Road 
+Analysis as a Major project in 7th semester. 
+● Attended 15 day Graphics and Vision Summer School 2024 at IIT Delhi where I was among 20 selected 
+students from 500 applicants all over India. 
+● Participated in online hackathons in college like Shebuilds, PowerToFly Diversity Hackathon 2022  
+● Database Head of Cyber Crew Club in school in 2020-21 
+● Cultural Head of my house in school in 2018-2020. 
+● Participated and bagged customised T-shirts as prize in Google Summer of Code in 2018.
