@@ -35,15 +35,15 @@ export default function Contact() {
     setIsSubmitting(true);
     try {
       await emailjs.send(
-        "service_09qpyni",
-        "template_zwqr876",
+        "service_ksbvzul",
+        "template_qmo5t7j",
         {
           from_name: data.name,
           from_email: data.email,
           message: data.message,
           to_email: "jainaadi91151@gmail.com",
         },
-        "vjsrG03vCy-lp8IYh"
+        "fLMjpC534D_Oa1MQj"
       );
 
       toast({

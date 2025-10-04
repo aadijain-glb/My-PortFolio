@@ -185,7 +185,9 @@ export default function Projects() {
                       size="sm"
                       onClick={(e) => {
                         e.stopPropagation();
-                        window.open(project.liveUrl, "_blank");
+                        if (project.liveUrl) {
+                          window.open(project.liveUrl, "_blank");
+                        }
                       }}
                       className="flex-1 flex items-center justify-center bg-blue-800 hover:bg-blue-700 text-black px-4 py-2 rounded"
                     >
